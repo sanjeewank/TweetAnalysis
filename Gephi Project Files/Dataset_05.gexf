@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2023-01-18">
+    <creator>Gephi 0.10.0</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="nodesize" title="NodeSize" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="argentina" label="Argentina">
+        <attvalues>
+          <attvalue for="nodesize" value="60"/>
+        </attvalues>
+        <viz:size value="50.0"/>
+        <viz:position x="-17.549248" y="247.92345"/>
+        <viz:color r="160" g="222" b="2"/>
+      </node>
+      <node id="france" label="France">
+        <attvalues>
+          <attvalue for="nodesize" value="21"/>
+        </attvalues>
+        <viz:size value="18.8"/>
+        <viz:position x="-142.80424" y="-186.33464"/>
+        <viz:color r="165" g="193" b="148"/>
+      </node>
+      <node id="qatar" label="Qatar">
+        <attvalues>
+          <attvalue for="nodesize" value="28"/>
+        </attvalues>
+        <viz:size value="24.400002"/>
+        <viz:position x="-252.29863" y="-1.7078302"/>
+        <viz:color r="164" g="198" b="122"/>
+      </node>
+      <node id="morocco" label="Morocco">
+        <attvalues>
+          <attvalue for="nodesize" value="19"/>
+        </attvalues>
+        <viz:size value="17.2"/>
+        <viz:position x="182.60738" y="-110.77286"/>
+        <viz:color r="165" g="191" b="156"/>
+      </node>
+      <node id="portugal" label="Portugal">
+        <attvalues>
+          <attvalue for="nodesize" value="13"/>
+        </attvalues>
+        <viz:size value="12.4"/>
+        <viz:position x="-17.549248" y="483.11652"/>
+        <viz:color r="166" g="187" b="178"/>
+      </node>
+      <node id="mexico" label="Mexico">
+        <attvalues>
+          <attvalue for="nodesize" value="12"/>
+        </attvalues>
+        <viz:size value="11.6"/>
+        <viz:position x="-450.67264" y="-170.75545"/>
+        <viz:color r="166" g="186" b="182" a="0.99607843"/>
+      </node>
+      <node id="senegal" label="Senegal">
+        <attvalues>
+          <attvalue for="nodesize" value="10"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="451.3269" y="-24.927166"/>
+        <viz:color r="167" g="185" b="190"/>
+      </node>
+      <node id="england" label="England">
+        <attvalues>
+          <attvalue for="nodesize" value="16"/>
+        </attvalues>
+        <viz:size value="14.799999"/>
+        <viz:position x="215.03143" y="47.686996"/>
+        <viz:color r="166" g="189" b="167"/>
+      </node>
+      <node id="usa" label="USA">
+        <attvalues>
+          <attvalue for="nodesize" value="20"/>
+        </attvalues>
+        <viz:size value="18.0"/>
+        <viz:position x="39.660553" y="-215.39838"/>
+        <viz:color r="165" g="192" b="152"/>
+      </node>
+      <node id="canada" label="Canada">
+        <attvalues>
+          <attvalue for="nodesize" value="11"/>
+        </attvalues>
+        <viz:size value="10.8"/>
+        <viz:position x="79.757774" y="-447.48062"/>
+        <viz:color r="166" g="185" b="186"/>
+      </node>
+      <node id="brazil" label="Brazil">
+        <attvalues>
+          <attvalue for="nodesize" value="13"/>
+        </attvalues>
+        <viz:size value="12.4"/>
+        <viz:position x="-241.77711" y="426.23355"/>
+        <viz:color r="166" g="187" b="178"/>
+      </node>
+      <node id="belgium" label="Belgium">
+        <attvalues>
+          <attvalue for="nodesize" value="12"/>
+        </attvalues>
+        <viz:size value="11.6"/>
+        <viz:position x="-322.4668" y="-345.44302"/>
+        <viz:color r="166" g="186" b="182" a="0.99607843"/>
+      </node>
+      <node id="croatia" label="Croatia">
+        <attvalues>
+          <attvalue for="nodesize" value="13"/>
+        </attvalues>
+        <viz:size value="12.4"/>
+        <viz:position x="-411.7741" y="269.3425"/>
+        <viz:color r="166" g="187" b="178"/>
+      </node>
+      <node id="spain" label="Spain">
+        <attvalues>
+          <attvalue for="nodesize" value="13"/>
+        </attvalues>
+        <viz:size value="12.4"/>
+        <viz:position x="-486.4254" y="50.38814"/>
+        <viz:color r="166" g="187" b="178"/>
+      </node>
+      <node id="japan" label="Japan">
+        <attvalues>
+          <attvalue for="nodesize" value="11"/>
+        </attvalues>
+        <viz:size value="10.8"/>
+        <viz:position x="263.79352" y="-364.24326"/>
+        <viz:color r="166" g="185" b="186"/>
+      </node>
+      <node id="germany" label="Germany">
+        <attvalues>
+          <attvalue for="nodesize" value="12"/>
+        </attvalues>
+        <viz:size value="11.6"/>
+        <viz:position x="-129.55678" y="-444.12534"/>
+        <viz:color r="166" g="186" b="182" a="0.99607843"/>
+      </node>
+      <node id="australia" label="Australia">
+        <attvalues>
+          <attvalue for="nodesize" value="10"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="428.87326" y="160.95294"/>
+        <viz:color r="167" g="185" b="190"/>
+      </node>
+      <node id="uruguay" label="Uruguay">
+        <attvalues>
+          <attvalue for="nodesize" value="10"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="335.69104" y="323.34964"/>
+        <viz:color r="167" g="185" b="190"/>
+      </node>
+      <node id="wales" label="Wales">
+        <attvalues>
+          <attvalue for="nodesize" value="10"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="186.54356" y="436.53363"/>
+        <viz:color r="167" g="185" b="190"/>
+      </node>
+      <node id="switzerland" label="Switzerland">
+        <attvalues>
+          <attvalue for="nodesize" value="11"/>
+        </attvalues>
+        <viz:size value="10.8"/>
+        <viz:position x="395.95383" y="-211.49742"/>
+        <viz:color r="166" g="185" b="186"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="argentina" target="france" weight="74.0"/>
+      <edge id="3" source="france" target="morocco" weight="7.0"/>
+      <edge id="4" source="france" target="qatar" weight="16.0"/>
+      <edge id="5" source="morocco" target="qatar" weight="14.0"/>
+      <edge id="8" source="portugal" target="france" weight="4.0"/>
+      <edge id="9" source="portugal" target="argentina" weight="6.0"/>
+      <edge id="17" source="mexico" target="argentina" weight="6.0"/>
+      <edge id="20" source="senegal" target="morocco"/>
+      <edge id="22" source="qatar" target="argentina" weight="68.0"/>
+      <edge id="25" source="england" target="france" weight="8.0"/>
+      <edge id="31" source="england" target="usa" weight="2.0"/>
+      <edge id="32" source="argentina" target="morocco" weight="15.0"/>
+      <edge id="35" source="canada" target="usa"/>
+      <edge id="42" source="brazil" target="argentina" weight="8.0"/>
+      <edge id="43" source="brazil" target="france" weight="3.0"/>
+      <edge id="44" source="brazil" target="belgium" weight="2.0"/>
+      <edge id="45" source="brazil" target="england" weight="3.0"/>
+      <edge id="46" source="brazil" target="croatia" weight="2.0"/>
+      <edge id="47" source="brazil" target="portugal" weight="2.0"/>
+      <edge id="48" source="brazil" target="spain" weight="2.0"/>
+      <edge id="50" source="argentina" target="belgium" weight="4.0"/>
+      <edge id="51" source="argentina" target="england" weight="11.0"/>
+      <edge id="52" source="argentina" target="croatia" weight="7.0"/>
+      <edge id="54" source="argentina" target="spain" weight="4.0"/>
+      <edge id="55" source="france" target="belgium" weight="4.0"/>
+      <edge id="57" source="france" target="croatia" weight="6.0"/>
+      <edge id="59" source="france" target="spain" weight="4.0"/>
+      <edge id="60" source="belgium" target="england" weight="4.0"/>
+      <edge id="61" source="belgium" target="croatia" weight="3.0"/>
+      <edge id="62" source="belgium" target="portugal" weight="3.0"/>
+      <edge id="63" source="belgium" target="spain" weight="3.0"/>
+      <edge id="64" source="england" target="croatia" weight="3.0"/>
+      <edge id="65" source="england" target="portugal" weight="4.0"/>
+      <edge id="66" source="england" target="spain" weight="5.0"/>
+      <edge id="67" source="croatia" target="portugal" weight="3.0"/>
+      <edge id="68" source="croatia" target="spain" weight="3.0"/>
+      <edge id="69" source="portugal" target="spain" weight="4.0"/>
+      <edge id="78" source="mexico" target="brazil" weight="4.0"/>
+      <edge id="89" source="croatia" target="qatar" weight="3.0"/>
+      <edge id="91" source="argentina" target="japan" weight="2.0"/>
+      <edge id="94" source="qatar" target="usa" weight="2.0"/>
+      <edge id="100" source="brazil" target="qatar"/>
+      <edge id="104" source="canada" target="france"/>
+      <edge id="105" source="canada" target="germany"/>
+      <edge id="106" source="canada" target="australia"/>
+      <edge id="107" source="france" target="germany" weight="2.0"/>
+      <edge id="108" source="france" target="australia" weight="2.0"/>
+      <edge id="109" source="germany" target="australia"/>
+      <edge id="113" source="usa" target="argentina" weight="3.0"/>
+      <edge id="123" source="germany" target="argentina" weight="2.0"/>
+      <edge id="131" source="france" target="uruguay"/>
+      <edge id="133" source="belgium" target="uruguay"/>
+      <edge id="135" source="uruguay" target="england"/>
+      <edge id="155" source="qatar" target="england" weight="4.0"/>
+      <edge id="156" source="qatar" target="spain"/>
+      <edge id="160" source="canada" target="mexico"/>
+      <edge id="164" source="belgium" target="qatar"/>
+      <edge id="174" source="japan" target="spain"/>
+      <edge id="175" source="japan" target="germany"/>
+      <edge id="176" source="japan" target="portugal"/>
+      <edge id="177" source="spain" target="germany" weight="2.0"/>
+      <edge id="179" source="germany" target="portugal" weight="2.0"/>
+      <edge id="181" source="argentina" target="canada"/>
+      <edge id="183" source="canada" target="belgium"/>
+      <edge id="197" source="wales" target="england" weight="4.0"/>
+      <edge id="224" source="usa" target="germany" weight="2.0"/>
+      <edge id="231" source="morocco" target="usa" weight="2.0"/>
+      <edge id="234" source="morocco" target="japan"/>
+      <edge id="237" source="usa" target="japan"/>
+      <edge id="240" source="qatar" target="japan"/>
+      <edge id="279" source="belgium" target="morocco" weight="2.0"/>
+      <edge id="283" source="england" target="morocco" weight="2.0"/>
+      <edge id="289" source="spain" target="morocco" weight="2.0"/>
+      <edge id="302" source="uruguay" target="qatar"/>
+      <edge id="310" source="qatar" target="mexico" weight="2.0"/>
+      <edge id="319" source="croatia" target="morocco" weight="4.0"/>
+      <edge id="352" source="brazil" target="morocco"/>
+      <edge id="353" source="brazil" target="switzerland"/>
+      <edge id="354" source="brazil" target="usa"/>
+      <edge id="355" source="brazil" target="germany"/>
+      <edge id="364" source="argentina" target="switzerland"/>
+      <edge id="374" source="france" target="switzerland"/>
+      <edge id="375" source="france" target="usa"/>
+      <edge id="377" source="france" target="mexico"/>
+      <edge id="383" source="belgium" target="switzerland"/>
+      <edge id="384" source="belgium" target="usa"/>
+      <edge id="385" source="belgium" target="germany"/>
+      <edge id="386" source="belgium" target="mexico"/>
+      <edge id="391" source="england" target="switzerland"/>
+      <edge id="393" source="england" target="germany"/>
+      <edge id="394" source="england" target="mexico"/>
+      <edge id="398" source="croatia" target="switzerland"/>
+      <edge id="399" source="croatia" target="usa"/>
+      <edge id="400" source="croatia" target="germany"/>
+      <edge id="401" source="croatia" target="mexico"/>
+      <edge id="403" source="portugal" target="morocco" weight="3.0"/>
+      <edge id="404" source="portugal" target="switzerland"/>
+      <edge id="405" source="portugal" target="usa"/>
+      <edge id="407" source="portugal" target="mexico"/>
+      <edge id="409" source="spain" target="switzerland"/>
+      <edge id="410" source="spain" target="usa"/>
+      <edge id="412" source="spain" target="mexico"/>
+      <edge id="413" source="morocco" target="switzerland"/>
+      <edge id="415" source="morocco" target="germany"/>
+      <edge id="416" source="morocco" target="mexico"/>
+      <edge id="417" source="switzerland" target="usa"/>
+      <edge id="418" source="switzerland" target="germany"/>
+      <edge id="419" source="switzerland" target="mexico"/>
+      <edge id="421" source="usa" target="mexico"/>
+      <edge id="422" source="germany" target="mexico"/>
+    </edges>
+  </graph>
+</gexf>
